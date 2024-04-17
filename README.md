@@ -1,4 +1,4 @@
-markdown
+
 # Automatização de Quebra de Planilha Excel
 
 Este script em Python utiliza a biblioteca Pandas para automatizar o processo de quebra de um grande arquivo
